@@ -47,9 +47,8 @@ html {
   }
 
   .hour-hand {
-    top: 47.5%;
-    transform-origin: 113%;
-    width: 40%;
+    background: rgba(41, 41, 41, 0.863);
+
   }
   
   .second-hand {
