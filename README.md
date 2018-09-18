@@ -1,1 +1,1 @@
-# JavaScript 30 challenge
+## JavaScript 30 challenge
